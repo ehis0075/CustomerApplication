@@ -15,7 +15,7 @@ import javax.ejb.Stateless;
 public class CustomerManager {
 
     public int getCustomerCount() {
-        return 25;
+        return 50;
     }
     
     public int getCustomerCountByRegion(String region ) {
